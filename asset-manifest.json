@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picture-api-and-axios/static/css/main.bfb85879.css",
+    "main.js": "/picture-api-and-axios/static/js/main.f8bd200a.js",
+    "index.html": "/picture-api-and-axios/index.html",
+    "main.bfb85879.css.map": "/picture-api-and-axios/static/css/main.bfb85879.css.map",
+    "main.f8bd200a.js.map": "/picture-api-and-axios/static/js/main.f8bd200a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb85879.css",
+    "static/js/main.f8bd200a.js"
+  ]
+}
